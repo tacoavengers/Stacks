@@ -20,6 +20,12 @@ It works on ```push``` (e.g., append) and ```pop```
 #### Con
 * Stacks are not very versatile
 
+#### Usefulness
+* Running programs
+* Call stack
+* Tracking nodes
+* Parsing strings
+
 #### Example
 
 ```
