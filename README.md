@@ -21,3 +21,10 @@ print(stack) // [10, 20, 30]
 stack.pop()
 print(stack) // [10, 20]
 ```
+
+### Stacks vs Queues
+
+* Queue: FIFO/LILO   -> A line of people
+* Stack: LIFO/FILO   -> A stack of plates
+
+
