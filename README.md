@@ -30,7 +30,7 @@ And ```peak``` that finds an item at the top of the stack.
 
 #### Examples
 
-- 1.
+* 1
 ```
 stack = []
 
