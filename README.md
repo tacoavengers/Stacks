@@ -44,6 +44,17 @@ stack.pop()
 print(stack) // [10, 20]
 ```
 
+* 2
+```
+stack = []
+def push():
+  element = input("Enter an element: ")
+  stack.append(element)
+  print(stack)
+  
+
+```
+
 ### Stacks vs Queues
 
 * Queue: FIFO/LILO   -> A line of people
