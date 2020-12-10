@@ -5,7 +5,7 @@ https://repl.it/@webdevdave/Stacks#main.py
 ### How it works
 
 Stack is a data structure that works on the LIFO model: Last In First Out.    
-It works on ```push``` (e.g., append) and ```pop```    
+It works on ```push``` (e.g., append) and ```pop```(e.g., remove the top most element).            
 It also usese ```.isEmpty()```, a boolean to return a T/F if the stack is empty or not.    
 And ```peak``` that finds an item at the top of the stack.    
 
