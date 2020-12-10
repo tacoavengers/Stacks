@@ -28,8 +28,9 @@ And ```peak``` that finds an item at the top of the stack.
 * Tracking nodes
 * Parsing strings
 
-#### Example
+#### Examples
 
+- 1.
 ```
 stack = []
 
